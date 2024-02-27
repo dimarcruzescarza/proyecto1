@@ -1,0 +1,29 @@
+*
+{
+    font-family: Georgia;
+    margin: 30px;
+
+}
+
+body
+{ background-color: aqua;}
+
+h1
+{
+    padding: 15px;
+    border: 10px;
+    border-style: dotted;
+    color: darkorchid;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+
+p {color: rgb(129, 14, 124); text-align: justify; border-radius: 30px; border-style: solid; padding: 10px; border-color: red;}
+
+
+img
+{
+    width: 47%;
+    
+}
